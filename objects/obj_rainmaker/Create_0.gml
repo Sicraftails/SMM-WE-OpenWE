@@ -1,0 +1,15 @@
+rain_sys = part_system_create()
+ind = 1
+part_system_depth(rain_sys, -8)
+rain = part_type_create()
+part_type_sprite(rain, spr_rain, 0, 0, 1)
+part_type_alpha1(rain, 0.8)
+part_type_speed(rain, 7, 15, 0, 0)
+part_type_direction(rain, 240, 240, 0, 0)
+part_type_colour1(rain, 16777215)
+emitter = part_emitter_create(rain_sys)
+part_emitter_stream(rain_sys, emitter, rain, 5)
+part_emitter_region(rain_sys, emitter, (camera_get_view_x(view_get_camera(0)) - 600), ((camera_get_view_x(view_get_camera(0)) + camera_get_view_width(view_get_camera(0))) + 600), 0, 0, 3, 0)
+repeat (5)
+    part_system_update(rain_sys)
+

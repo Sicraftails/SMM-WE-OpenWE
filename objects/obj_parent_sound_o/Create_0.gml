@@ -1,0 +1,11 @@
+image_speed = 0
+image_index = 0
+sprite = spr_es_risas
+sonido = snd_es_risas
+sonido2 = snd_es_risas2
+sonido3 = snd_es_risas3
+sonido4 = snd_es_risas4
+object = obj_efecto_sonido
+velocidad = 0.45
+can_active = 0
+my_object = obj_lighting

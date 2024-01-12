@@ -1,0 +1,19 @@
+image_speed = 0
+image_index = global.apariencia
+hardness = 99
+stomp = 2
+edible = 1
+modo_lava = 0
+direct = 1
+direct_t = 2
+ready = 0
+dead_h = 0
+swimming = 0
+angle = 0
+innave = 0
+wings = 0
+w_wings = 0
+apilar = 0
+bouncy = 1
+alarm[10] = 2
+

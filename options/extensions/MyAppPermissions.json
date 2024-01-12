@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "MyAppPermissions",
+    "path": "extensions/MyAppPermissions/MyAppPermissions.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

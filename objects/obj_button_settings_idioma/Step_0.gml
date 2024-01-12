@@ -1,0 +1,1 @@
+text = scr_language(16)

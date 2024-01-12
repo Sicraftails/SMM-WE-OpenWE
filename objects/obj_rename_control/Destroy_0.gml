@@ -1,0 +1,10 @@
+with (obj_rename_input)
+    instance_destroy()
+with (obj_rename_button2)
+    instance_destroy()
+with (obj_rename_close)
+    instance_destroy()
+instance_activate_all()
+if sprite_exists(back)
+    sprite_delete(back)
+

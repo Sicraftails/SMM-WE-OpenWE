@@ -1,0 +1,2 @@
+cointime = 2
+

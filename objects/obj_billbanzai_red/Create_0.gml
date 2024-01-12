@@ -1,0 +1,21 @@
+image_speed = 0
+image_index = global.apariencia
+direct_t = 1
+anim = 0
+hardness = 99
+stomp = 0
+edible = 2
+direct = 1
+rotacion = 0
+dead_h = 0
+wings = 0
+w_wings = 0
+apilar = 0
+swimming = 0
+lastdir = direction
+anim = 0
+homing = 0
+alarm[2] = 10
+alarm[3] = 600
+alarm[10] = 1
+

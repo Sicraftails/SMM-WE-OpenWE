@@ -1,0 +1,4 @@
+
+// DESACTIVARCONTROL
+walk = 0
+

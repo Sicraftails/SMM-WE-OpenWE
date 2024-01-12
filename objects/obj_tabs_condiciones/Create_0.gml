@@ -1,0 +1,9 @@
+image_speed = 0
+image_index = 0
+selected = 0
+disabled = 0
+index = 0
+text = ""
+anim = 0
+effect_hover = 0
+c_color = c_white

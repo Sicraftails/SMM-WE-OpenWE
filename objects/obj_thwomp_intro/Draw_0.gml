@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_thwomp_intro, 0, x, y, 0.5, 0.5, image_angle, image_blend, image_alpha);

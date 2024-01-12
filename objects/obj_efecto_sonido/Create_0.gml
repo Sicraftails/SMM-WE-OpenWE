@@ -1,0 +1,10 @@
+image_speed = 0
+cont_sounds = 1
+stop = 0
+sonido = snd_es_risas
+sonido2 = snd_es_risas2
+sonido3 = snd_es_risas3
+sonido4 = snd_es_risas4
+active = 0
+full = 0
+alarm[0] = 1

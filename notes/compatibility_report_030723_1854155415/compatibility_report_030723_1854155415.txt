@@ -1,0 +1,6 @@
+Converting GML script: ${project_dir}\objects\obj_Controller\Step_0.gml
+Converted description /// @description Find or Create Folder
+
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'

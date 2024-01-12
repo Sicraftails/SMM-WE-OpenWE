@@ -1,0 +1,4 @@
+draw_sprite_ext(imagen, 2, round(x), (y + 8), 1, 1, angle, c_white, 1)
+if (paracaidas == 1)
+    draw_sprite_ext(spr_paracaidas, global.apariencia, x, y, 1, 1, image_angle, c_white, 1)
+

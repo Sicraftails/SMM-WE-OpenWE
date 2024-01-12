@@ -1,0 +1,1 @@
+instance_destroy(obj_configurar_controles_reset);

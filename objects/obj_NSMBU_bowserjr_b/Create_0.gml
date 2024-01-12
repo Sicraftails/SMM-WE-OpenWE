@@ -1,0 +1,26 @@
+event_inherited()
+s_walk = spr_NSMBU_bowserjr_idle
+s_fire = spr_NSMBU_bowserjr_fire
+s_jump = spr_NSMBU_bowserjr_jump
+s_groundpount = spr_NSMBU_bowserjr_groundpount
+s_hammer = spr_NSMBU_bowserjr_hammer
+sprite_wings = spr_NSMBU_wings_enemigos
+wings_x = 14
+state = 1
+jump = 0
+groundpount = 0
+groundpount_cont = 0
+groundpount_anim = 0
+groundpount_jump = 0
+fire = 0
+fire_anim = 0
+cooldown = 0
+swimming = 0
+prevhspeed = 0
+image_speed = 0.5
+paracaidas = 0
+firehitpoints = 5
+key = 0
+paracaidas = 0
+hitpoints = 3
+alarm[10] = 2

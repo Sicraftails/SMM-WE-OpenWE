@@ -1,0 +1,1 @@
+keyboard_key_release(global.saltar)

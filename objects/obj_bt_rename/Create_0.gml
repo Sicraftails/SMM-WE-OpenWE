@@ -1,0 +1,11 @@
+image_speed = 0
+image_index = 2
+c_button = make_colour_rgb(25, 42, 67)
+text = "Nombre"
+effect_hover = 0
+anim = 0
+posy = 6
+rot = 0
+press = 1
+c_disabled = make_colour_rgb(110, 119, 126)
+disabled = 1

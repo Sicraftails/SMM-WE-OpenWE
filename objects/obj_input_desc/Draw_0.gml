@@ -1,0 +1,5 @@
+draw_self()
+draw_set_font(global.font_google)
+draw_set_color(c_title)
+draw_text((x + 32), (y + 3), string_hash_to_newline(new_texto))
+draw_text((x+320), (y+20), string(string_hash_to_newline(string_length(new_texto))) + string("/92"))

@@ -1,0 +1,23 @@
+{
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "snd_SMB_music_underground",
+  "audioGroupId": {
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
+  },
+  "bitDepth": 1,
+  "bitRate": 192,
+  "compression": 3,
+  "conversionMode": 0,
+  "duration": 12.734694,
+  "parent": {
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
+  },
+  "preload": true,
+  "sampleRate": 44100,
+  "soundFile": "snd_SMB_music_underground",
+  "type": 1,
+  "volume": 1.0,
+}

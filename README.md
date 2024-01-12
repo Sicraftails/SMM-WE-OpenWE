@@ -8,8 +8,8 @@ OpenWE es un proyecto de código abierto que se basa en el fangame Super Mario M
 
 
 ```js
-  // Se Utiliza: Gamemaker Studio 2
-  // Extensiones a descargar: FolderPick, Nekopresence.
+// Se Utiliza: Gamemaker Studio 2
+// Extensiones a descargar: FolderPick, Nekopresence.
 ```
 
 Requiere de conocimiento de programacion basico (GML).
